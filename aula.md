@@ -44,3 +44,6 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
  [x] criar, passar argumento
  [x] excutar
  [x] arrow function / named function
+
+ ## Estrutura de Repetição
+ [x] while
