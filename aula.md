@@ -4,7 +4,7 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
 💡 **Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças de uma linguagem
-- Comentários
+- [x] Comentários
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos )
 - Tipos de dados (string, number, boolean)
@@ -20,21 +20,26 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
 ## Escopo e variáveis:
  Variáveis globais e locais
  Constantes
-Tipos de dados:
+
+## Tipos de dados:
  Strings (texto): "" '' ``
  Numbers: 2 1.4
  Boolean: true, false
-Operadores
+
+## Operadores
  Operadores de atribuição de valor: =
  Operador de contatenação: +
-Estruturas de dados:
+
+## Estruturas de dados:
+
 Arrays:
  Uma lista que contém qualquer tipo de dado
 Objetos:
  Atributos e métodos
  Criação e manipulação de objetos
  Acesso a propriedades de objetos
-Functions
+
+## Functions
  criar, passar argumento
  excutar
  arrow function / named function
