@@ -29,6 +29,7 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
 ## Operadores
  [x] Operadores de atribuição de valor: =
  [x] Operador de contatenação: +
+ [x] Operadores de comparação: == != <= >= < >
 
 ## Estruturas de dados:
 
