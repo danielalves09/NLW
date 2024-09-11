@@ -47,3 +47,6 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
 
  ## Estrutura de Repetição
  [x] while
+
+ ## Condicionais
+ [x] switch
