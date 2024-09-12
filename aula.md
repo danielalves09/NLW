@@ -30,11 +30,13 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
  [x] Operadores de atribuição de valor: =
  [x] Operador de contatenação: +
  [x] Operadores de comparação: == != <= >= < >
+ [x] Spread operator: ...
 
 ## Estruturas de dados:
 
 ## Arrays:
  [x] Uma lista que contém qualquer tipo de dado
+ [x] Métodos de array: push, [find, forEach, filter] : HOF (higher Order Functions)
 
 ## Objetos:
  [x] Atributos e métodos
