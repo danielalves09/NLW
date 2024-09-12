@@ -36,7 +36,7 @@ Maneira de dar instrução ao computador. Como um lego, você irá utilizar peç
 
 ## Arrays:
  [x] Uma lista que contém qualquer tipo de dado
- [x] Métodos de array: push, [find, forEach, filter] : HOF (higher Order Functions)
+ [x] Métodos de array: push, [find, forEach, filter, map] : HOF (higher Order Functions)
 
 ## Objetos:
  [x] Atributos e métodos
