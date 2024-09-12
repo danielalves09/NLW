@@ -34,16 +34,19 @@ const listarMetas  = async () => {
 
     })
 
+    metas.forEach((m) => {
+      m.checked = false
+
+    }) 
+
+    
     if(respostas.length == 0){
       console.log("Nenhuma meta seleconada!")
       return
 
     }
 
-    metas.forEach((m) => {
-      m.checked = false
-
-    })
+    
 
   
 
